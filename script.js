@@ -1,19 +1,14 @@
 
 const projects = [
   {
-    title: "To-Do App",
-    description: "A clean and responsive to-do list app to organize your daily tasks effectively.",
-    link: "https://to-do11.netlify.app/"
+    title: "Password generator",
+    description: "It creates a random password including all type of characters.",
+    link: "https://thejas663.github.io/Random-password/"
   },
   {
-    title: "Portfolio Website",
-    description: "This personal portfolio site showcasing my projects, skills, and contact info.",
-    link: "https://portfoliopranavs.netlify.app/#"
-  },
-  {
-    title: "LeetCode Tracker",
-    description: "Track your coding progress, solved problems, and difficulty-based stats.",
-    link: "https://leetcodetracker1.netlify.app/"
+    title: "Drag and drop",
+    description: "It drags the box from one place to other.",
+    link: "https://thejas663.github.io/Drag-drop/"
   }
 ];
 
